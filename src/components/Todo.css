@@ -1,0 +1,14 @@
+.todo {
+    font-family: Arial;
+    cursor: pointer;
+  }
+
+  .todo.completed {
+    color:gray;
+    text-decoration: line-through;
+  }
+
+.clear-btn {
+    font-family: Arial;
+    cursor: pointer;
+} 
